@@ -67,6 +67,6 @@ Não serão considerados testes técnicos cujas aplicações não estejam hosped
 
 # 📧 Sobre a entrega
 
-Solicitamos que, por favor, submeta o teste em até 5 dias após receber as instruções. Envie a entrega na mesma conversa de e-mail em que foi fornecido o link do desafio, incluindo o link de um repositório privado no GitHub. Adicione o usuário @erickhaendel (erick.haendel@findup.com.br) como colaborador no repositório. No e-mail, forneça também o link para visualização online da aplicação.
+Solicitamos que, por favor, submeta o teste em até 7 dias após receber as instruções. Envie a entrega na mesma conversa de e-mail em que foi fornecido o link do desafio, incluindo o link de um repositório privado no GitHub. Adicione o usuário @erickhaendel (erick.haendel@findup.com.br) como colaborador no repositório. No e-mail, forneça também o link para visualização online da aplicação.
 
 Em caso de imprevistos que impossibilitem o cumprimento do prazo, agradecemos se nos informar por e-mail.
