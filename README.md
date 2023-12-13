@@ -34,6 +34,8 @@ Por fim, forneça uma documentação, por meio de um arquivo README.md, acerca d
 - Requisitar dados (presentes no arquivo "db.json") de uma API fictícia utilizando json-server;
 - O projeto deve possuir usabilidade impecável (aos olhos de um usuário o projeto deve funcionar como uma só aplicação; os botões devem ter cursor adequado, feedbacks visuais de hover, etc);
 - Os filtros devem funcionar no momento da digitação.
+- A ordenação dos dados será pioritária por ordem alfabetica do nome do usuário.
+- Ao clicar no titulo das colunas deverá ordenar os dados, sendo assim o primeiro clique ordena DESC, segundo clique ordena ASC. Somente um ordenamento de coluna por vez deverá funcionar.
 - Fazer uso de uma abordagem ou ferramenta para o gerenciamento de estado e comunicação entre componentes.
 - Hospedar a aplicação, permitindo o acesso através de uma URL (você pode usar plataformas gratuitas, como Vercel, Netlify, Heroku e afins);
   = Fornecer uma documentação, incluindo instruções completas para a execução do projeto;
